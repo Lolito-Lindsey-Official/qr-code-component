@@ -1,0 +1,41 @@
+.attribution { 
+    display: flex;
+    margin: 0 auto;
+    color: #000;
+    font-size: 10px;
+}
+
+.attribution a { 
+    color: hwb(218, 44%, 22%); 
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+#qr-main {
+    max-width: 375px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+    
+    border-radius: 5%;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    border-radius: 5%;
+    width: 100%;
+}
