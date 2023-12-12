@@ -2,24 +2,22 @@
     display: flex;
     flex-direction: row;
     gap: 10px;
-    color: #000;
+    color: hsl(0, 0%, 0%);
     font-size: 10px;
     margin-top: -10px;
 }
 
 .attribution a { 
-    color: hwb(218, 44%, 22%); 
+    color: hsl(218, 44%, 22%); 
 }
 
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: 'Roboto', sans-serif;
-    font-size: 12px;
 }
 
 #qr-main {
-    min-width: 300px;
-    max-width: 375px;
+    width: 300px;
     text-align: center;
 
     display: flex;
@@ -30,19 +28,19 @@ body {
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
     
-    border-radius: 5%;
+    border-radius: 2.5%;
 
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 
-    box-shadow: #0000003f 0 0 16px 0;
+    box-shadow: #00000033 0 0 16px 0;
 }
 
 #qr-main:hover {
     transition: 0.25s;
-    box-shadow: #0000003f 0 0 32px 0;
+    box-shadow: #00000050 0 0 32px 0;
 }
 
 #qr-pitch {
@@ -51,10 +49,12 @@ body {
 }
 
 #qr-direction {
-    color: 22;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    margin-top: -5px;
 }
 
 img {
-    border-radius: 5%;
-    width: 100%;
+    border-radius: 2.5%;
+    width: 300px;
 }
