@@ -1,4 +1,4 @@
-#qr-code-component
+##qr-code-component
 
 This is for a QR code component for the FrontEndMentor site.
 
@@ -37,6 +37,5 @@ Find the final screenshot here: images/qr-code-component-screenshot
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - https://lolito-lindsey-official.github.io/
+- Frontend Mentor - https://www.frontendmentor.io/profile/Lolito-Lindsey-Official
