@@ -31,7 +31,7 @@ Find the final screenshot here: images/qr-code-component-screenshot
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Flexbox
 
 ## Author
 
