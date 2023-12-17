@@ -16,9 +16,7 @@ This is for a QR code component for the FrontEndMentor site.
 
 ### Screenshot
 
-Find the final screenshot here: images/qr-code-component-screenshot
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+Find the final screenshot using this file path: images/qr-code-component-screenshot
 
 ### Links
 
