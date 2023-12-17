@@ -1,7 +1,3 @@
-##qr-code-component
-
-This is for a QR code component for the FrontEndMentor site.
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -15,6 +11,8 @@ This is for a QR code component for the FrontEndMentor site.
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
+This is for a QR code component for the FrontEndMentor site.
 
 ### Screenshot
 
