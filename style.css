@@ -28,7 +28,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
     
-    border-radius: 2.5%;
+    border-radius: 1.5rem;
 
     position: absolute;
     top: 50%;
@@ -55,6 +55,6 @@ body {
 }
 
 img {
-    border-radius: 2.5%;
+    border-radius: 1.5rem;
     width: 300px;
 }
