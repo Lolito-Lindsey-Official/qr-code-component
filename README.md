@@ -1,3 +1,5 @@
+# Frontend Mentor - QR Code Component
+
 ## Table of contents
 
 - [Overview](#overview)
